@@ -1,0 +1,1 @@
+(this["webpackJsonpguiding-star-frontend"]=this["webpackJsonpguiding-star-frontend"]||[]).push([[48],{358:function(t,n,i){"use strict";i.r(n);n.default=[{type:"interaction",target:"special/touch_black_box"}]}}]);
